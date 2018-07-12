@@ -1,0 +1,7 @@
+name: PlayerIcon
+author: pauhull
+version: 1.3
+main: de.pauhull.playericon.Main
+
+commands:
+  playericon:

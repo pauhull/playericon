@@ -1,0 +1,7 @@
+# PlayerIcon Config
+Enabled: True                    # Choose wether the plugin is enabled or not
+NotJoinedYet: "MHF_Question"     # This head is displayed when you haven't joined the server yet
+Display3D: True                  # Active this if you want the head to be displayed in 3D
+OverlayFile: "overlay.png"       # If you want to use an overlay place an 64x64 PNG image in plugins/PlayerIcon/<OverlayFile>.png
+BackgroundFile: "background.png" # If you want to use a background place an 64x64 PNG image in plugins/PlayerIcon/<BackgroundFile>.png
+ScaleFactor: 1.0                 # Scale factor for the head; 1.0 = Full Size, 0.5 = Half Size, 0.0 = Invisible
